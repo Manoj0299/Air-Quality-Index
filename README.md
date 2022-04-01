@@ -18,12 +18,7 @@ Air Quality is now a big problem faced is many cities around the world. The Qual
 **To Be Noted**
 1. Data is not Normally Distributed in this Dataset.For that purpose the Transformation Method is used.
   Transforms are usually applied so that the data appear to more closely meet the assumptions of a statistical inference procedure that is to be applied, or to improve     the interpretability or appearance of graphs. Nearly always, the function that is used to transform the data is invertible, and generally is continuous.
-
-  1. Logarithmic Transformation 
-  2. Reciprocal Transformation 
-  3. Square Root Transformation 
-  4. Exponential Transformation 
-  5. 5. Boxcox Transformation 
+  Logarithmic Transformation, Reciprocal Transformation, Square Root Transformation, Exponential Transformation, Boxcox Transformation 
 
 2. Standard Scaler also Used.
 3. Feature Selection
